@@ -55,9 +55,6 @@ If you’re working on projects in **Machine Learning**, **AI**, or **scalable s
 
 ## 🎉 Fun Facts About Me
 - 🌱 I thrive on learning new technologies and challenging myself with complex projects.
-- 🎮 Gaming enthusiast with a love for strategy and multiplayer games.
-- 📷 Passionate about photography and experimenting with gadgets.
-- 🐶 A proud pet parent to a very playful doggo.
 
 ---
 
