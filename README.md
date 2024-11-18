@@ -51,8 +51,8 @@ I’m actively learning and improving in:
 ### 🌍 Let's Collaborate!
 If you’re working on projects in **Machine Learning**, **AI**, or **scalable system design**, I’d love to connect and contribute! Feel free to reach out via my socials below. 🚀
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/isandeepdev)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/isandeepdev)
+- **LinkedIn**: [Linkedin](https://linkedin.com/in/isandeepdev)
+- **Twitter**: [Twitter](https://twitter.com/isandeepdev)
 
 
 ---
