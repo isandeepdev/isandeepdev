@@ -54,12 +54,6 @@ If you’re working on projects in **Machine Learning**, **AI**, or **scalable s
 - **LinkedIn**: [Linkedin](https://linkedin.com/in/isandeepdev)
 - **Twitter**: [Twitter](https://twitter.com/isandeepdev)
 
-
----
-
-## 🎉 Fun Facts About Me
-- 🌱 I thrive on learning new technologies and challenging myself with complex projects.
-
 ---
 
 ## 💬 Pronouns
